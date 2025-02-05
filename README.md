@@ -1,10 +1,4 @@
-title: Athena Researcher
-emoji: 🐨
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 5.15.0
-app_file: app.py
-pinned: false
-license: unlicense
-short_description: A tool to assist you with your research
+## Athena Researcher 🐨
+
+* A tool to assist you with your research built on EXA AI and Huggingface Gradio
+* Run the tool here >>> https://0a922db043bc4fbfd8.gradio.live/
